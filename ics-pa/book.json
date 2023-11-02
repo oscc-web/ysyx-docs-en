@@ -1,0 +1,61 @@
+{
+  "gitbook": "3.x.x",
+  "plugins": [
+    "theme-comscore",
+    "intopic-toc",
+    "localized-footer",
+    "page-footer-ex",
+    "callouts"
+  ],
+  "pluginsConfig": {
+
+    "callouts": {
+      "option": {
+        "alert": "info",
+        "picto": "fa-edit"
+      },
+      "flag": {
+        "alert": "success",
+        "picto": "fa-flag"
+      },
+      "question": {
+        "alert": "info",
+        "picto": "fa-question-circle"
+      },
+      "info": {
+        "alert": "info",
+        "picto": "fa-info-circle"
+      },
+      "todo" : {
+        "alert": "warning",
+        "picto": "fa-edit"
+      },
+      "caution": {
+        "alert": "danger",
+        "picto": "fa-bullhorn"
+      },
+      "danger": {
+        "alert": "danger",
+        "picto": "fa-exclamation"
+      },
+      "showTypeInHeader": false
+    },
+
+    "page-footer-ex": {
+      "copyright": "By [Zihao Yu](https://sashimi-yzh.github.io/), 采用[知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆 许可协议](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)发布",
+      "markdown": true,
+      "update_label": "此页面修订于: ",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "intopic-toc": {
+      "selector": ".markdown-section h2, .markdown-section h3, .markdown-section h4",
+      "isCollapsed": false,
+      "visible": true,
+      "label": "导航"
+    }
+  },
+  "styles": {
+    "website": "styles.css",
+    "pdf": "styles.css"
+  }
+}
