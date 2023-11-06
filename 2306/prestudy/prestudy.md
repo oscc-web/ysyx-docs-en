@@ -44,7 +44,7 @@ Once you have completed the above, you can apply for the ysyx defense, and if yo
 
 We don't set up the admission defense in order to filter out the best students and eliminate those with no knowledge; on the contrary, we want you to be prepared to enter the official phase of the course: you will probably find a tidal wave of unfamiliar knowledge at the beginning of the official phase of the course. How you survive the difficulties you will encounter in the future is of paramount importance, but we will give you the secret of survival in the pre-study phase.
 
-<!-- -->
+
 <!-- > #### comment::这些我都已经掌握了, 我能跳过预学习吗?
 > 准确地说, 你可以跳过大部分内容, 但以下内容仍然不可以跳过:
 > 1. 编写关于如何提问的读后感
