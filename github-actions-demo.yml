@@ -1,0 +1,39 @@
+name: Remote Dispatch Action Responder
+
+on: [repository_dispatch]
+
+jobs:
+  Auto-Sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Event Information
+        run: |
+          echo "Event '${{ github.event.action }}' received from '${{ github.event.client_payload.repository }}'"
+      - name: ORIGINAL
+        run: |
+          echo "${{ github.event.client_payload.original }}" | base64 --decode
+      - name: MODIFIED
+        run: |
+          echo "${{ github.event.client_payload.modified }}" | base64 --decode
+      - name: FILELIST
+        run: |
+          echo "${{ github.event.client_payload.filelist }}" | base64 --decode
+      - uses: actions/checkout@v4
+      - run: python3 $GITHUB_WORKSPACE/process.py "$(echo "${{ github.event.client_payload.filelist }}" | base64 --decode)" \
+                                                  "$(echo "${{ github.event.client_payload.original }}" | base64 --decode)" \
+                                                  "$(echo "${{ github.event.client_payload.modified }}" | base64 --decode)"
+      - name: Set output variables
+        id: vars
+        run: |
+          pr_title="[Auto Sync] Sync with ZH repo $(date +%d-%m-%Y)"
+          pr_body="This PR was auto-generated on $(date +%d-%m-%Y)"
+          echo "pr_title=$pr_title" >> $GITHUB_OUTPUT
+          echo "pr_body=$pr_body" >> $GITHUB_OUTPUT
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          branch-suffix: random 
+          commit-message: Auto Sync 
+          title: ${{ steps.vars.outputs.pr_title }}
+          body: ${{ steps.vars.outputs.pr_body }}
+          labels: report, automated pr
