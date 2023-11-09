@@ -1,0 +1,3 @@
+[submodule "src/ics-pa"]
+	path = src/ics-pa
+	url = git@github.com:NJU-ProjectN/ics-pa-gitbook-src.git
