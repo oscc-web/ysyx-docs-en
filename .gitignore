@@ -2,3 +2,12 @@ dist
 node_modules
 .temp
 .cache
+.vscode
+var
+package-lock.json
+SERVER_ADDRESS
+# Symbolic link to either git submodule or remote archive
+src/ics-pa
+navbar-zh-tmp.js
+navbar-en-tmp.js
+en/

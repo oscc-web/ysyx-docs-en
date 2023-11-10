@@ -1,3 +1,7 @@
-[submodule "src/ics-pa"]
-	path = src/ics-pa
+[submodule "src/ics-pa-src"]
+	path = src/ics-pa-src
 	url = git@github.com:NJU-ProjectN/ics-pa-gitbook-src.git
+[submodule "common"]
+	path = common
+	url = git@github.com:ysyx-org/frontend-common.git
+	branch = master
