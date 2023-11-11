@@ -3,7 +3,7 @@
 set -e
 
 PATH_ROOT=${PWD}
-PATH_DOCS_EN=${PATH_ROOT}/src/en/
+PATH_SRCSS_EN=src/en
 
 if [ ! -d ${PATH_DOCS_EN}/.git ]; then
     echo ""
