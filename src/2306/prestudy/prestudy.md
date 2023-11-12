@@ -104,4 +104,4 @@ After completing the above content, you can apply for the admission defense of "
 > 在学会[如何科学提问](./0.1.md)之后，欢迎加入[预学习交流群](https://docs.qq.com/doc/DSU1teVZLR1hDcG9P)，在这里一起愉快地完成预学习，向成为一生一芯正式学员迈进！ -->
 
 > #### info::Prestudy guidance (teaching assistants participate to provide guidance and communication)
-> After learning [how to ask scientific questions](./0.1.md), you are welcome to join the [prestudy exchange group](https://docs.qq.com/doc/DSU1teVZLR1hDcG9P), where you can happily complete the prestudy together and move towards becoming a formal student of One Student One Chip!
+> After learning [how to ask scientific questions](./0.1.md), you are welcome to join the [prestudy exchange group](https://docs.qq.com/doc/DSU1teVZLR1hDcG9P), where you can happily complete the prestudy together and move towards becoming a formal student of "One Student One Chip"!
