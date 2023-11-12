@@ -5,7 +5,7 @@ pageClass: "ysyx-index"
 ---
 
 <!-- # 第六期"一生一芯"课程主页 -->
-# Sixth "Ysyx" Program Home Page
+# The 6th "One Student One Chip" Program Home Page
 
 <!-- * 课时: 每周六15:00~17:00
   * [B站直播](https://live.bilibili.com/24416626) | [录播链接](https://space.bilibili.com/2107852263/channel/collectiondetail?sid=1523995) -->
@@ -23,7 +23,7 @@ pageClass: "ysyx-index"
 1. 如何使用/设计正确的工具高效地进行调试?
 1. 如何自己编写测试用例进行单元测试?
 1. RTL设计如何生成可流片的版图? -->
-"Ysyx" will develop your general skills.
+"One Student One Chip" will develop your general skills.
 At the end of the course, you will have a better understanding of the following questions:
 1. how processors are designed?
 1. how programs run on computers?
@@ -153,7 +153,7 @@ The processor that achieves the target will be connected to the SoC and will be 
 	</thead>
 	<tbody>
 		<tr class="Prestudy">
-			<td stage-title rowspan="8">pre-study stage</td>
+			<td stage-title rowspan="8">Prestudy stage</td>
 			<td week></td> <td task>How to ask questions scientifically</td>
             <td _><a href="2306/prestudy/0.1.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/01.html#/" target="_blank">📰</a></td>
@@ -213,7 +213,7 @@ The processor that achieves the target will be connected to the SoC and will be 
 			<td colspan="10"><i class="fa fa-flag"></i>Application for admission defense</td>
 		</tr>
 		<tr class="Stage-B">
-			<td stage-title rowspan="14">basic level</td>
+			<td stage-title rowspan="14">Basic Stage</td>
 			<td week></td> <td task>NEMU with RV32IM support</td>
             <td _><a href="2306/baseline/1.1.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/08.html#/" target="_blank">📰</a></td>
@@ -315,7 +315,7 @@ The processor that achieves the target will be connected to the SoC and will be 
 			<td colspan="10"><i class="fa fa-flag"></i>Accomplish stage B tapeout</td>
 		</tr>
 		<tr class="Stage-A">
-			<td stage-title rowspan="4">advanced stage</td>
+			<td stage-title rowspan="4">Advanced Stage</td>
 			<td week></td> <td task>under construction</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
@@ -362,7 +362,7 @@ The processor that achieves the target will be connected to the SoC and will be 
 * [第五期](../2205/index.md) -->
 ## Past Courses Home
 
-* [5th Cohort](../2205/index.md)
+* [The 5th Session](../2205/index.md)
 
 <!-- ## 其他资源
 
@@ -380,8 +380,8 @@ The processor that achieves the target will be connected to the SoC and will be 
 * 2022/03/12 - [软硬件协同能力在芯片设计中的应用(金越, 胡博涵, 高泽宇)](https://www.bilibili.com/video/BV1334y187zC/) -->
 ## Record of events
 
-* 2023/08/25 - [Open Source Chip Technology Ecology Forum (formerly "Ysyx" Technology Forum)](../events/20230825-2nd-tech-forum.md)
-* 2023/07/02 - [Sixth "Ysyx" Kick-Off Meeting](https://space.bilibili.com/2107852263/channel/collectiondetail?sid=1497409)
+* 2023/08/25 - [Open Source Chip Technology Ecology Forum (formerly "One Student One Chip" Technology Forum)](../events/20230825-2nd-tech-forum.md)
+* 2023/07/02 - [6th "One Student One Chip" Kick-Off Meeting](https://space.bilibili.com/2107852263/channel/collectiondetail?sid=1497409)
 * 2022/11/20 - [Chip Open Source and Agile Design from a Software Engineering Perspective(包云岗)](https://www.bilibili.com/video/BV1Dd4y1474D/)
-* 2022/08/28 - [The First "Ysyx" Technical Forum and the Fifth Launching Meeting](../events/20220828-1st-tech-forum.md)
+* 2022/08/28 - [The First "One Student One Chip" Technical Forum and the Fifth Launching Meeting](../events/20220828-1st-tech-forum.md)
 * 2022/03/12 - [Hardware-software collaboration capabilities in chip design(金越, 胡博涵, 高泽宇)](https://www.bilibili.com/video/BV1334y187zC/)
