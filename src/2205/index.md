@@ -4,14 +4,16 @@ sidebar: auto
 pageClass: "ysyx-index"
 ---
 
-# 第五期"一生一芯"课程主页
+# Translation in progress
+
+<!-- # 第五期"一生一芯"课程主页
 
 * 课时: 每周六19:00~21:00
   * [B站直播](https://live.bilibili.com/24416626) | [录播链接](https://space.bilibili.com/2107852263/channel/collectiondetail?sid=690279)
-* 答疑: 每周日19:00~20:00 (通过预学习答辩后由助教通知)
+* 答疑: 每周日19:00~20:00 (通过预学习答辩后由助教通知) -->
 <!-- * [报名流程](about/enroll/student.md) | [报名常见问题](about/enroll/faq.md) -->
 
-## 课件和讲义
+<!-- ## 课件和讲义
 
 0. `C` = C语言(程序/模拟器/系统软件) | `R` = RISC-V指令集 | `P` = 处理器设计 | `T` = 工具
    <hr color=#987cb9 size=4 />
@@ -71,4 +73,4 @@ pageClass: "ysyx-index"
 
 * 2022/11/20 - [从软件工程视角看芯片开源与敏捷设计(包云岗)](https://www.bilibili.com/video/BV1Dd4y1474D/)
 * 2022/08/28 - [第一届“一生一芯”技术论坛暨第五期启动会](../events/20220828-1st-tech-forum.md)
-* 2022/03/12 - [软硬件协同能力在芯片设计中的应用(金越, 胡博涵, 高泽宇)](https://www.bilibili.com/video/BV1334y187zC/)
+* 2022/03/12 - [软硬件协同能力在芯片设计中的应用(金越, 胡博涵, 高泽宇)](https://www.bilibili.com/video/BV1334y187zC/) -->
