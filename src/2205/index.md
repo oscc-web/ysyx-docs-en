@@ -7,7 +7,9 @@ pageClass: "ysyx-index"
 # Translation in progress
 
 <script>
-    window.location.href = "/docs/en/2306/"
+    if (typeof window !== "undefined") {
+        window.location.href = "/docs/en/2306/"
+    }
 </script>
 
 <!-- # 第五期"一生一芯"课程主页
