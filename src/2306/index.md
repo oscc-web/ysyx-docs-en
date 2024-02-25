@@ -272,43 +272,57 @@ The processor that achieves the target will be connected to the SoC and will be 
 		<tr class="Stage-B">
 			<td week></td> <td task>Devices and inputs/outputs</td>
             <td _><a href="2306/baseline/1.5.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/15.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1sb4y1g7Xu" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
+		</tr>
+		<tr class="Stage-B">
+			<td week></td> <td task>Debug tips</td>
+            <td _> - </td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/16.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1Vz4y1A7Rt" target="_blank">🎬</a></td>
+			<td _></td> <td _></td> <td _></td> <td x></td>
 		</tr>
 		<tr class="Stage-B">
 			<td week></td> <td task>Exception handling and RT-Thread</td>
             <td _><a href="2306/baseline/1.6.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1734y1w7ro" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-B">
 			<td week></td> <td task>Bus</td>
             <td _><a href="2306/baseline/1.7.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/18.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1gj411s7ah" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-B">
-			<td week></td> <td task>SoC computer systems</td>
+			<td week></td> <td task>SoC computer systems (part 1)</td>
             <td _><a href="2306/baseline/1.8.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/19.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1NC4y1u7K3" target="_blank">🎬</a></td>
+			<td _></td> <td _></td> <td x></td> <td _></td>
+		</tr>
+		<tr class="Stage-B">
+			<td week></td> <td task>SoC computer systems (part 2)</td>
+            <td _><a href="2306/baseline/1.8.html" target="_blank">📚</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/20.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1FC4y1k7mP" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-B">
 			<td week></td> <td task>Performance and Simple Caching</td>
             <td _><a href="2306/baseline/1.9.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _> </td>
+            <td _> </td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-B">
 			<td week></td> <td task>Pipeline</td>
             <td _><a href="2306/baseline/1.10.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _> </td>
+            <td _> </td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Achievement">
@@ -317,25 +331,25 @@ The processor that achieves the target will be connected to the SoC and will be 
 		<tr class="Stage-A">
 			<td stage-title rowspan="4">Advanced Stage</td>
 			<td week></td> <td task>under construction</td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td> <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td> <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
 			<td week></td> <td task>under construction</td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td> <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td> <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
 			<td week></td> <td task>under construction</td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td> <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td> <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
 			<td week></td> <td task>under construction</td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td> <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td> <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
+            <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
