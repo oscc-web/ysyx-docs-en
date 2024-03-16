@@ -1,4 +1,4 @@
-# 基础(B)阶段概述
+# Baseline overview
 
 基础(Baseline)阶段是"一生一芯"的第一个正式学习的阶段.
 B阶段的目标有两个
