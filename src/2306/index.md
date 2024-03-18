@@ -396,6 +396,6 @@ The processor that achieves the target will be connected to the SoC and will be 
 
 * 2023/08/25 - [Open Source Chip Technology Ecology Forum (formerly "One Student One Chip" Technology Forum)](../en/events/20230825-2nd-tech-forum.md)
 * 2023/07/02 - [6th "One Student One Chip" Kick-Off Meeting](https://space.bilibili.com/2107852263/channel/collectiondetail?sid=1497409)
-* 2022/11/20 - [Chip Open Source and Agile Design from a Software Engineering Perspective(包云岗)](https://www.bilibili.com/video/BV1Dd4y1474D/)
+* 2022/11/20 - [Chip Open Source and Agile Design from a Software Engineering Perspective(Yungang Bao)](https://www.bilibili.com/video/BV1Dd4y1474D/)
 * 2022/08/28 - [The First "One Student One Chip" Technical Forum and the Fifth Launching Meeting](../en/events/20220828-1st-tech-forum.md)
-* 2022/03/12 - [Hardware-software collaboration capabilities in chip design(金越, 胡博涵, 高泽宇)](https://www.bilibili.com/video/BV1334y187zC/)
+* 2022/03/12 - [Hardware-software collaboration capabilities in chip design(Yue Jin, Bohan Hu, Zeyu Gao)](https://www.bilibili.com/video/BV1334y187zC/)
