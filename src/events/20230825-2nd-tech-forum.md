@@ -55,7 +55,7 @@ The forum focuses on the open source chip technology ecosystem (using open sourc
 | 20        | 潘岩              | 哈尔滨工业大学  | 一生一芯中对处理器设计的科学调试方法                      | 17:00-17:10 |
 | 21        | 史历              | 卡内基梅隆大学  | 简单的RISC-V多核系统实现                                  | 17:10-17:20 |
 |           | 包云岗            | 中国科学院计算技术研究所 | 论坛总结                                         | 17:20-17:25 | -->
-| Number      | Speaker            | Company            | Title                                                      | Date    |
+| Number      | Speaker            | Organization            | Title                                                      | Date    |
 |---------- |------------------ |---------------- |---------------------------------------------------------- |-------------|
 | | | | Morning | |
 |           | Yugang Bao            | Institute of Computing Technology, Chinese Academy of Sciences | Forum speech                                         | 9:00-9:05   |
