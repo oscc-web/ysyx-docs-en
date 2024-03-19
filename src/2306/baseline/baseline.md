@@ -15,15 +15,15 @@ In addition to DiffTest, you will also implement a simple debugger and various t
 These infrastructures will accompany you throughout the "One Student One Chip":
 Even in stages A and S, you will find that they can still greatly improve debugging efficiency;
 What's more? Without these infrastructures, you will have to pay a huge price if you want to survive the S stage.
-1. 设计一个支持RV32E的单周期处理器.
-不过你会首先实现一个RV32IM(对, 是RV32IM)的模拟器,
-在不接触RTL实现细节的情况下理解RISC-V指令和程序的行为,
-然后再把这些理解迁移到RTL实现的真实处理器中.
-1. 为单周期处理器添加输入输出功能.
-这样以后, 你就可以在自己设计的处理器上运行超级玛丽了.
-1. 实现简单的异常处理机制, 运行RT-Thread操作系统
-1. 实现总线, 接入SoC
-1. 将处理器改成流水线结构
+1. Design an RV32E single-cycle processor.
+But you will first implement an RV32IM (yes, RV32IM) simulator.
+Understand the behavior of RISC-V instructions and programs without considering RTL implementation details,
+Then apply these understandings to the real processor implemented in RTL.
+1. Implement input and output functionality to the single-cycle processor.
+After that, you can run Super Mario on the processor you designed.
+1. Implement a simple exception handling mechanism and run the RT-Thread operating system
+1. Implement bus and connect to SoC
+1. Change the processor from a single-cycle processor to a pipelined processor.
 
 > #### caution::Isn’t it enough just learn how to use tools? Why do I have to spend so much time implementing tools?
 > If you really have such questions, you most likely do not understand the meaning of "using the right tools to solve problems", which may be reflected in the following aspects
