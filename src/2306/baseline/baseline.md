@@ -1,9 +1,9 @@
 # Baseline overview
 
-基础(Baseline)阶段是"一生一芯"的第一个正式学习的阶段.
-B阶段的目标有两个
-* 在自己设计的处理器上运行红白机游戏超级玛丽
-* 深入理解超级玛丽是如何在自己设计的处理器上运行的
+The Baseline stage is the first formal learning stage of "One Student One Chip".
+There are two goals in Baseline stage
+* Running the NES game Super Mario on a processor designed by yourself
+* Understand in depth how Super Mario runs on the processor you designed
 
 ![image](./mario.png)
 
