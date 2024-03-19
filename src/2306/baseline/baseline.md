@@ -1,14 +1,14 @@
 # Baseline overview
 
 The Baseline stage is the first formal learning stage of "One Student One Chip".
-There are two goals in Baseline stage
+There are two goals in the Baseline stage
 * Running the NES game Super Mario on a processor designed by yourself
 * Understand in depth how Super Mario runs on the processor you designed
 
 ![image](./mario.png)
 
-具体来说, B阶段的任务又可以分成如下部分:
-1. 搭建基础设施. 基础设施是指提升调试效率的工具和方法.
+Specifically, the tasks in the Baseline stage can be divided into the following parts:
+1. Build infrastructures. Infrastructures are tools and methods that help improve debugging efficiency.
 如果你已经听说过第三期"一生一芯"的DiffTest(差分测试)机制,
 相信你也大概能够明白基础设施对于一个有一定规模的项目来说多么的重要了.
 除了DiffTest之外, 你还会实现简易调试器和各种trace(踪迹)工具,
