@@ -15,7 +15,7 @@ In addition to DiffTest, you will also implement a simple debugger and various t
 These infrastructures will accompany you throughout the "One Student One Chip":
 Even in stages A and S, you will find that they can still greatly improve debugging efficiency;
 What's more? Without these infrastructures, you will have to pay a huge price if you want to survive the S stage.
-1. Design an RV32E single-cycle processor.
+1. Implement an RV32E single-cycle processor.
 But you will first implement an RV32IM (yes, RV32IM) simulator.
 Understand the behavior of RISC-V instructions and programs without considering RTL implementation details,
 Then apply these understandings to the real processor implemented in RTL.
