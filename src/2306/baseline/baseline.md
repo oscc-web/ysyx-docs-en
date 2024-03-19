@@ -25,12 +25,12 @@ Specifically, the tasks in the Baseline stage can be divided into the following 
 1. 实现总线, 接入SoC
 1. 将处理器改成流水线结构
 
-> #### caution::工具不是会用就行了吗? 为什么我要花那么多时间去写工具?
-> 如果你真心抱有这样的疑问, 你大概率还不理解"使用正确的工具解决问题"的意义, 具体可能体现在
-> 1. 不会主动寻找正确的工具来提高工作效率(例如通过拷贝的方式来备份项目, 而不是使用版本管理工具)
-> 1. 就算会用一些工具, 也不太愿意花点时间深入了解它们的更多功能
-> 1. 如果工具是开源的, 也没想过可以添加一些定制化的功能
-> 1. 如果没有这样的工具, 更不会想过自己去写一个
+> #### caution::Isn’t it enough just learn how to use tools? Why do I have to spend so much time implementing tools?
+> If you really have such questions, you most likely do not understand the meaning of "using the right tools to solve problems", which may be reflected in the following aspects
+> 1. Not proactively looking for the right tools to improve work efficiency (such as backing up projects by copying and pasting them instead of using version control tools)
+> 1. Even if you know how to use certain tools, you are not willing to spend some time to understand the tools in depth.
+> 1. If the tool is open source, you have never thought about adding some customized functions.
+> 1. If there was no such tool, you would never even think of writing them by yourself.
 >
-> 真正明白工具意义的开发者, 是不会觉得这是在浪费时间的:
-> 现在花时间去了解/实现工具, 将来就会帮你把时间成倍地赚回来.
+> Developers who truly understand the meaning of tools will not feel that it is a waste of time:
+> Taking the time to understand/implement the tools now will help you earn back your time exponentially in the future.
