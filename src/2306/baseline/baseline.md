@@ -1,6 +1,6 @@
 # Baseline overview
 
-The Baseline stage is the first formal learning stage of "One Student One Chip".
+The Baseline stage is the first formal learning stage of the "One Student One Chip".
 There are two goals in the Baseline stage
 * Running the NES game Super Mario on a processor designed by yourself
 * Understand in depth how Super Mario runs on the processor you designed
@@ -9,12 +9,12 @@ There are two goals in the Baseline stage
 
 Specifically, the tasks in the Baseline stage can be divided into the following parts:
 1. Build infrastructures. Infrastructures are tools and methods that help improve debugging efficiency.
-如果你已经听说过第三期"一生一芯"的DiffTest(差分测试)机制,
-相信你也大概能够明白基础设施对于一个有一定规模的项目来说多么的重要了.
-除了DiffTest之外, 你还会实现简易调试器和各种trace(踪迹)工具,
-这些基础设施将会伴随你整个"一生一芯"的学习:
-即使到了A阶段和S阶段, 你会发现它们仍然可以大幅提升调试的效率;
-甚至可以说, 如果没有这些基础设施, 你想要在S阶段中存活下来, 将要付出巨大的代价.
+If you have heard about the DiffTest (differential testing) mechanism of the third term of the "One Student One Chip",
+Then you should probably understand how important infrastructure is for a project of a certain scale.
+In addition to DiffTest, you will also implement a simple debugger and various tracing tools.
+These infrastructures will accompany you throughout the "One Student One Chip":
+Even in stages A and S, you will find that they can still greatly improve debugging efficiency;
+What's more? Without these infrastructures, you will have to pay a huge price if you want to survive the S stage.
 1. 设计一个支持RV32E的单周期处理器.
 不过你会首先实现一个RV32IM(对, 是RV32IM)的模拟器,
 在不接触RTL实现细节的情况下理解RISC-V指令和程序的行为,
