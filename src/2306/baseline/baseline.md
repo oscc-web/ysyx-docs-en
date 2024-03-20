@@ -14,15 +14,15 @@ Then you should probably understand how important infrastructure is for a projec
 In addition to DiffTest, you will also implement a simple debugger and various tracing tools.
 These infrastructures will accompany you throughout the "One Student One Chip":
 Even in stages A and S, you will find that they can still greatly improve debugging efficiency;
-What's more? Without these infrastructures, you will have to pay a huge price if you want to survive the S stage.
-1. Implement an RV32E single-cycle processor.
+What's more? Without these infrastructures, you will be very painful when working on the S stage.
+1. Design an RV32E single-cycle processor.
 But you will first implement an RV32IM (yes, RV32IM) simulator.
 Understand the behavior of RISC-V instructions and programs without considering RTL implementation details,
 Then apply these understandings to the real processor implemented in RTL.
 1. Implement input and output functionality to the single-cycle processor.
 After that, you can run Super Mario on the processor you designed.
-1. Implement a simple exception handling mechanism and run the RT-Thread operating system
-1. Implement bus and connect to SoC
+1. Implement a simple exception handling mechanism and run the RT-Thread operating system.
+1. Implement bus and connect to SoC.
 1. Change the processor from a single-cycle processor to a pipelined processor.
 
 > #### caution::Isn’t it enough just learn how to use tools? Why do I have to spend so much time implementing tools?
