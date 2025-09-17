@@ -446,7 +446,7 @@ Accessible via the “Courses Home" link in the top navigation bar.
 
 ## Other Resources
 
-* [The Art of RISC-V Open Architecture Design By David Patterson and Andrew Wathelet Translated by Gou Lingrui, Chen Lu, and Liu Zhigang](https://item.jd.com/10092349081102.html)
+* [The RISC-V Reader: An Open Architecture Atlas By David Patterson and Andrew Wathelet](https://a.co/d/dQjXgeb)
 * [Computer Systems: Based on the RISC-V + Linux Platform Edited by Yuan Chunfeng, Yu Zihao, and Chen Lu](https://product.dangdang.com/29720521.html)
 * [Digital Design and Computer Architecture - Spring 2023, Onur Mutlu@ETH Zurich](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule)
 * [Questioning template](../2205/misc/ask.md)
