@@ -446,10 +446,10 @@ Accessible via the “Courses Home" link in the top navigation bar.
 
 ## Other Resources
 
-* [《RISC-V开放架构设计之道》 大卫·帕特森 安德鲁·沃特曼 著，勾凌睿 陈璐 刘志刚 译](https://item.jd.com/10092349081102.html)
-* [《计算机系统——基于RISC-V+Linux平台》 袁春风 余子濠 陈璐  编著](https://product.dangdang.com/29720521.html)
+* [The Art of RISC-V Open Architecture Design By David Patterson and Andrew Wathelet Translated by Gou Lingrui, Chen Lu, and Liu Zhigang](https://item.jd.com/10092349081102.html)
+* [Computer Systems: Based on the RISC-V + Linux Platform Edited by Yuan Chunfeng, Yu Zihao, and Chen Lu](https://product.dangdang.com/29720521.html)
 * [Digital Design and Computer Architecture - Spring 2023, Onur Mutlu@ETH Zurich](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule)
-* [提问模板](../2205/misc/ask.md)
+* [Questioning template](../2205/misc/ask.md)
 
 <!-- ## 活动记录
 
