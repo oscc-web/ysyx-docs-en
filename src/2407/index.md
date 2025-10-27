@@ -10,7 +10,7 @@ pageClass: "ysyx-index"
 * 如果你发现了实验讲义和材料的错误或者对实验内容有疑问或建议,
   可通过邮件联系余子濠(yuzihao#ict.ac.cn) -->
 
-# “One Student One Chip” v24.07 Course Homepage 
+# “One Student One Chip” v24.07 Course Homepage
 * Live teaching sessions will start in September 2025. Stay tuned.
 * If you find errors in the lab handouts or materials, or have questions or suggestions about the experiments,
   please contact Yu Zihao via email (yuzihao#ict.ac.cn).
@@ -81,7 +81,7 @@ pageClass: "ysyx-index"
 		width: 3.6em;
 	}
 	[stage-title] {
-		word-break:break-all;
+		/* word-break:break-all; */
 		padding: 1em;
 	}
 	thead {

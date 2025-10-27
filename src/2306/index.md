@@ -83,7 +83,7 @@ The processor that achieves the target will be connected to the SoC and will be 
 		width: 3.6em;
 	}
 	[stage-title] {
-		word-break:break-all;
+		/* word-break:break-all; */
 		padding: 1em;
 	}
 	thead {
