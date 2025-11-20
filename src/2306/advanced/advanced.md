@@ -1,8 +1,8 @@
-# 进阶(A)阶段概述
+# Advanced overview
 
-首先恭喜大家，经过B线的努力，大家已经有了一个可以运行单个复杂程序的处理器。
-而在进阶(Advance)阶段，目标是让处理器可以与外设部分整合为完整的片上系统，并开始优化处理器的性能：
-* 在自己设计的处理器上运行基本nanos-lite操作系统之上的用户程序
+Congratulations! After the efforts of the Baseline stage, we already have a processor that can run a single complex program.
+In the Advance stage, our goal is to integrate the processor and peripheral parts into a complete system-on-chip and begin to optimize the performance of the processor:
+* Run user programs on top of the basic nanos-lite operating system on your processor
 * 通过总线与中断将处理器与外设整合为片上系统
 * 理解处理器硬件设计对处理器面积、最高频率与同频性能的影响
 * 使用缓存(Cache)、多周期乘除法器与流水线提高处理器整体性能
