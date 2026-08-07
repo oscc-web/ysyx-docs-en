@@ -58,7 +58,7 @@ pageClass: "ysyx-index"
 		width: 3.6em;
 	}
 	[stage-title] {
-		word-break:break-all;
+		/* word-break:break-all; */
 		padding: 1em;
 	}
 	thead {
@@ -221,42 +221,42 @@ pageClass: "ysyx-index"
 			<td colspan="11"><a href="2607/e/9.html" target="_blank"><i class="fa fa-flag"></i> Submission of pre-study defense application</a></td>
 		</tr>
 		<tr class="Stage-D">
-			<td stage-title rowspan="12">D阶段</td>
-			<td rowspan="2">D1</td> <td task>从C代码到二进制程序</td> <td rowspan="2">10</td>
+			<td stage-title rowspan="12">D Stage</td>
+			<td rowspan="2">D1</td> <td task>From C to binary</td> <td rowspan="2">10</td>
             <td _ rowspan="2"><a href="2607/d/1.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/07.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1TtWYz2Eun" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td task>C程序的执行</td>
+			<td task>Execution of a C program</td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/08.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV189svz8ET5" target="_blank">🎬</a></td>
 			<td x></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td>D2</td> <td task>简易调试器</td> <td>20</td>
+			<td>D2</td> <td task>Simple Debugging Tool, SDB</td> <td>20</td>
             <td _><a href="2607/d/2.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/15.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1bc2YB9Ehi" target="_blank">🎬</a></td>
 			<td x></td> <td _></td> <td _></td> <td x></td>
 		</tr>
 		<tr class="Stage-D">
-			<td>D3</td> <td task>RISC-V指令集</td> <td>5</td>
+			<td>D3</td> <td task>RISC-V Instruction Set Architecture</td> <td>5</td>
             <td _><a href="2607/d/3.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/16.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1RVmMBaEC6" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td>D4</td> <td task>AM运行时环境</td> <td>5</td>
+			<td>D4</td> <td task>Abstract Machine Runtime Environment</td> <td>5</td>
             <td _><a href="2607/d/4.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/11.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1Vu4y1s73Y" target="_blank">🎬</a></td>
 			<td x></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td rowspan="5">D5</td> <td task>RTL代码的仿真</td> <td rowspan="5">20</td>
+			<td rowspan="5">D5</td> <td task>From RTL code to GDS</td> <td rowspan="5">20</td>
             <td _ rowspan="5"><a href="2607/d/5.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/10.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1ho1ZBbETt" target="_blank">🎬</a></td>
@@ -287,25 +287,25 @@ pageClass: "ysyx-index"
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td>D6</td> <td task>工具和基础设施</td> <td>5</td>
+			<td>D6</td> <td task>Tools and Infrastructure</td> <td>5</td>
             <td _><a href="2607/d/6.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/12.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1RM411Q7Au" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td _></td> <td x></td>
 		</tr>
 		<tr class="Stage-D">
-			<td>D7</td> <td task>支持RV32E的单周期NPC</td> <td>5</td>
+			<td>D7</td> <td task>Make your NPC Support RV32E</td> <td>5</td>
             <td _><a href="2607/d/7.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/13.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1rc411f7mK" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td x></td>
 		</tr>
 		<tr class="Achievement">
-			<td colspan="11"><a href="2607/d/8.html" target="_blank"><i class="fa fa-flag"></i> D阶段流片准备</a></td>
+			<td colspan="11"><a href="2607/d/8.html" target="_blank"><i class="fa fa-flag"></i> D Stage Tapeout Preparation</a></td>
 		</tr>
 		<tr class="Stage-C">
-			<td stage-title rowspan="6">C阶段</td>
-			<td>C1</td> <td task>程序的机器级表示</td> <td>4</td>
+			<td stage-title rowspan="6">C Stage</td>
+			<td>C1</td> <td task>The machine-level representation of a program</td> <td>4</td>
             <td _><a href="2607/c/1.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/09.html#/" target="_blank">📰(上)</a>
                   <a href="https://ysyx.oscc.cc/slides/2306/10.html#/" target="_blank">📰(下)</a></td>
@@ -314,35 +314,35 @@ pageClass: "ysyx-index"
 			<td x></td> <td x></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C2</td> <td task>ELF文件和链接</td> <td>2</td>
+			<td>C2</td> <td task>ELF Files and Linking</td> <td>2</td>
             <td _><a href="2607/c/2.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/14.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1Ly4y1w7hn" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C3</td> <td task>设备和输入输出</td> <td>10</td>
+			<td>C3</td> <td task>Devices and I/O</td> <td>10</td>
             <td _><a href="2607/c/3.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/15.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1sb4y1g7Xu" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C4</td> <td task>调试技巧</td> <td>2</td>
+			<td>C4</td> <td task>Debugging Tips</td> <td>2</td>
             <td _><a href="2607/c/4.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/16.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1Vz4y1A7Rt" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td _></td> <td x></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C5</td> <td task>总线</td> <td>10</td>
+			<td>C5</td> <td task>Bus</td> <td>10</td>
             <td _><a href="2607/c/5.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/18.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1gj411s7ah" target="_blank">🎬</a></td>
 			<td _></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C6</td> <td task>SoC计算机系统</td> <td>30</td>
+			<td>C6</td> <td task>SoC Computer System</td> <td>30</td>
             <td _><a href="2607/c/6.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/19.html#/" target="_blank">📰(上)</a>
                   <a href="https://ysyx.oscc.cc/slides/2306/20.html#/" target="_blank">📰(下)</a></td>
@@ -351,89 +351,89 @@ pageClass: "ysyx-index"
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Achievement">
-			<td colspan="11"><a href="2607/c/7.html" target="_blank"><i class="fa fa-flag"></i> C阶段流片准备</a></td>
+			<td colspan="11"><a href="2607/c/7.html" target="_blank"><i class="fa fa-flag"></i> C Stage Tapeout Preparation</a></td>
 		</tr>
 		<tr class="Stage-B">
-			<td stage-title rowspan="4">B阶段</td>
-			<td>B1</td> <td task>异常处理和RT-Thread</td> <td>15</td>
+			<td stage-title rowspan="4">B Stage</td>
+			<td>B1</td> <td task>Exception Handling and Simple Operating Systems</td> <td>15</td>
             <td _><a href="2607/b/1.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/17.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1734y1w7ro" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-B">
-			<td>B2</td> <td task>时序分析和优化</td> <td>5</td>
+			<td>B2</td> <td task>Timing Analysis and Optimization</td> <td>5</td>
             <td _><a href="2607/b/2.html" target="_blank">📚</a></td>
             <td _> - </td>
             <td _> - </td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-B">
-			<td>B3</td> <td task>性能优化和简易缓存</td> <td>20</td>
+			<td>B3</td> <td task>Performance Optimization and Simple Caching</td> <td>20</td>
             <td _><a href="2607/b/3.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/21.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1xr421F7ZP" target="_blank">🎬</a></td>
 			<td x></td> <td _></td> <td x></td> <td x></td>
 		</tr>
 		<tr class="Stage-B">
-			<td>B4</td> <td task>流水线处理器</td> <td>20</td>
+			<td>B4</td> <td task>Pipelined Processor</td> <td>20</td>
             <td _><a href="2607/b/4.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/22.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1ZRtkeVEqw" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td x></td>
 		</tr>
 		<tr class="Achievement">
-			<td colspan="11"><a href="2306/basic/1.11.html" target="_blank"><i class="fa fa-flag"></i> B阶段流片准备与考核</a></td>
+			<td colspan="11"><a href="2306/basic/1.11.html" target="_blank"><i class="fa fa-flag"></i> B Stage Tapeout Preparation</a></td>
 		</tr>
 		<tr class="Stage-A">
-			<td stage-title rowspan="7">A阶段</td>
-			<td></td> <td task>乘除法器</td> <td>0</td>
+			<td stage-title rowspan="7">A Stage</td>
+			<td></td> <td task>Multiplier and Divider</td> <td>0</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
-			<td></td> <td task>系统调用和应用程序</td> <td>0</td>
+			<td></td> <td task>System call and Application</td> <td>0</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
-			<td></td> <td task>虚存管理</td> <td>0</td>
+			<td></td> <td task>Virtual Memory Management</td> <td>0</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
-			<td></td> <td task>特权级和xv6</td> <td>0</td>
+			<td></td> <td task>Privilege level and xv6</td> <td>0</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
-			<td></td> <td task>启动Linux和Debian</td> <td>0</td>
+			<td></td> <td task>Boot Linux and Debian</td> <td>0</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
-			<td></td> <td task>缓存进阶</td> <td>0</td>
+			<td></td> <td task>Advanced Cache</td> <td>0</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-A">
-			<td></td> <td task>分支预测进阶</td> <td>0</td>
+			<td></td> <td task>Advanced Branch Prediction</td> <td>0</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Achievement">
-			<td colspan="11"><i class="fa fa-flag"></i> A阶段流片准备与考核</td>
+			<td colspan="11"><i class="fa fa-flag"></i> A Stage Tapeout Preparation</td>
 		</tr>
 		<tr class="Stage-S">
 			<td stage-title rowspan="1">S Stage</td>
-			<td></td> <td task>待续</td> <td>0</td>
+			<td></td> <td task>To be continued...</td> <td>0</td>
             <td _> </td> <td _> </td> <td _> </td>
             <!-- 环境       工具       数电        微结构       软件 -->
 			<td _></td> <td _></td> <td _></td> <td _></td>
