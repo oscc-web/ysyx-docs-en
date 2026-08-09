@@ -90,3 +90,9 @@
   - → `Instruction's rs1`
 
   此修改仅针对控制逻辑表格中的这一处，使其与 `raddr1` 的实际功能以及前文的数据通路说明保持一致。
+
+  # F6 内容修改记录
+  - 标题 Simple Basic Input/Output 表达重复
+    - `F6 Simple Basic Input/Output`
+    - → `F6 Simple Input/Output`
+  其它基本没有很大问题
