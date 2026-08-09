@@ -56,3 +56,37 @@
 - 修正 `1+2+...+10` 示例中的病句，修改为：
 
   For example, consider calculating `1+2+...+10`. Since a single addition instruction can add only two data values, the result of `1+2` must first be stored in some register `r` in the GPRs. The processor can then compute `r+3`, and so on. Therefore, the operand field of an instruction needs to specify which GPRs provide the input data and which GPR receives the result. For the opcode, the processor only needs a convention that defines which operation each opcode represents.
+
+  # F5 内容修改记录
+
+- 修正 PC 位宽错误：
+  - `PC bit width is 4 bits`
+  - → `PC bit width is 8 bits`
+
+- 补充 v26.07 新增的 Decode 相关内容：
+  - 增加“操作码译码（opcode decoding）”与“操作数译码（operand decoding）”的说明。
+  - 补充内容：
+
+  `Instruction decoding can be further divided into opcode decoding and operand decoding. Opcode decoding identifies the function of an instruction based on its opcode, while operand decoding extracts the corresponding operands from the instruction encoding.`
+
+- 为了与新增的“操作码译码 / 操作数译码”内容衔接更加自然，对后续 `li` 指令译码段落进行了调整：
+  - 修改为：
+
+  `For opcode decoding, since only the li instruction needs to be implemented at this stage, we can assume that every fetched instruction is an li instruction. For operand decoding, we only need to extract the rd and imm fields from the li instruction. From a circuit perspective, these are simply bit-field extraction operations and are straightforward to implement.`
+
+- 补充 Decode 部分对“译码目的”的说明：
+  - 增加：
+
+  `The purpose of decoding is to identify the function of an instruction from its encoding.`
+
+  - 并重新调整 Decode 开头的说明，使其更准确地表达从指令编码识别指令功能的过程。
+
+- 修正控制逻辑表格中的端口错误：
+  - `raddr2 Selection`
+  - → `raddr1 Selection`
+
+- 修正控制逻辑表格中 `add` 指令对应的源寄存器字段：
+  - `Instruction's rs2`
+  - → `Instruction's rs1`
+
+  此修改仅针对控制逻辑表格中的这一处，使其与 `raddr1` 的实际功能以及前文的数据通路说明保持一致。
