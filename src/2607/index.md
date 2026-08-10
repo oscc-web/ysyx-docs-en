@@ -281,7 +281,7 @@ pageClass: "ysyx-index"
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td task>Physical Design</td>s
+			<td task>Physical Design</td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/14.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV15ZUzBoEf6" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
