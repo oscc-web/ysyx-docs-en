@@ -23,7 +23,7 @@ pageClass: "ysyx-index"
 * Click icons to jump to corresponding resources
 * Full lecture notes accessible via the top-right navigation bar
 * Course materials created with [reveal.js][reveal.js], exportable to PDF—see [this guide][reveal.js export pdf]
-* S-stage lecture content remains under development 🕊
+* The S-stage lecture notes are still coming soon™. 🕊
 
 [reveal.js]: https://revealjs.com
 [reveal.js export pdf]: https://revealjs.com/pdf-export/
@@ -130,10 +130,10 @@ pageClass: "ysyx-index"
 		<tr class="Stage-F">
 			<td>F3</td> <td task>Fundamentals of Digital Logic Circuits</td> <td>20</td>
             <td _><a href="2607/f/3.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/02.html#/" target="_blank">📰(上)</a>
-                  <a href="https://ysyx.oscc.cc/slides/2607/03.html#/" target="_blank">📰(下)</a></td>
-            <td _><a href="https://www.bilibili.com/video/BV19nWNz2EZC" target="_blank">🎬(上)</a>
-                  <a href="https://www.bilibili.com/video/BV1xentzxED7" target="_blank">🎬(下)</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2607/02.html#/" target="_blank">📰(Part 1)</a>
+                  <a href="https://ysyx.oscc.cc/slides/2607/03.html#/" target="_blank">📰(Part 2)</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV19nWNz2EZC" target="_blank">🎬(Part 1)</a>
+                  <a href="https://www.bilibili.com/video/BV1xentzxED7" target="_blank">🎬(Part 2)</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-F">
@@ -197,7 +197,7 @@ pageClass: "ysyx-index"
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-E">
-			<td>E6</td> <td task>A Simple Runtime Environment</td> <td>5</td>
+			<td>E6</td> <td task>Simple Runtime Environment</td> <td>5</td>
             <td _><a href="2607/e/6.html" target="_blank">📚</a></td>
             <td _> - </td>
             <td _> - </td>
@@ -211,7 +211,7 @@ pageClass: "ysyx-index"
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-E">
-			<td>E8</td> <td task>综合与后端物理设计(流片准备)</td> <td>5</td>
+			<td>E8</td> <td task>Synthesis and Physical Design</td> <td>5</td>
             <td _><a href="2607/e/8.html" target="_blank">📚</a></td>
             <td _> - </td>
             <td _> - </td>
@@ -263,25 +263,25 @@ pageClass: "ysyx-index"
 			<td x></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td task>逻辑综合</td>
+			<td task>Logic Synthesis</td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/11.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1SyyFBtE7R" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td task>Verilog的RTL综合语义</td>
+			<td task>Verilog RTL Synthesis Semantics</td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/12.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1PjyFBmE3Z" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td task>标准单元库</td>
+			<td task>Standard Cell Library</td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/13.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1XAU6BpECX" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td task>物理设计</td>
+			<td task>Physical Design</td>s
             <td _><a href="https://ysyx.oscc.cc/slides/2407/14.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV15ZUzBoEf6" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
@@ -307,10 +307,10 @@ pageClass: "ysyx-index"
 			<td stage-title rowspan="6">C Stage</td>
 			<td>C1</td> <td task>The machine-level representation of a program</td> <td>4</td>
             <td _><a href="2607/c/1.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/09.html#/" target="_blank">📰(上)</a>
-                  <a href="https://ysyx.oscc.cc/slides/2306/10.html#/" target="_blank">📰(下)</a></td>
-            <td _><a href="https://www.bilibili.com/video/BV1ow411275B" target="_blank">🎬(上)</a>
-                  <a href="https://www.bilibili.com/video/BV19H4y1d7Yi" target="_blank">🎬(下)</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/09.html#/" target="_blank">📰(Part 1)</a>
+                  <a href="https://ysyx.oscc.cc/slides/2306/10.html#/" target="_blank">📰(Part 2)</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1ow411275B" target="_blank">🎬(Part 1)</a>
+                  <a href="https://www.bilibili.com/video/BV19H4y1d7Yi" target="_blank">🎬(Part 2)</a></td>
 			<td x></td> <td x></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-C">
@@ -344,10 +344,10 @@ pageClass: "ysyx-index"
 		<tr class="Stage-C">
 			<td>C6</td> <td task>SoC Computer System</td> <td>30</td>
             <td _><a href="2607/c/6.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/19.html#/" target="_blank">📰(上)</a>
-                  <a href="https://ysyx.oscc.cc/slides/2306/20.html#/" target="_blank">📰(下)</a></td>
-            <td _><a href="https://www.bilibili.com/video/BV1NC4y1u7K3" target="_blank">🎬(上)</a>
-                  <a href="https://www.bilibili.com/video/BV1FC4y1k7mP" target="_blank">🎬(下)</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/19.html#/" target="_blank">📰(Part 1)</a>
+                  <a href="https://ysyx.oscc.cc/slides/2306/20.html#/" target="_blank">📰(Part 2)</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1NC4y1u7K3" target="_blank">🎬(Part 1)</a>
+                  <a href="https://www.bilibili.com/video/BV1FC4y1k7mP" target="_blank">🎬(Part 2)</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Achievement">
