@@ -307,9 +307,9 @@ pageClass: "ysyx-index"
 			<td stage-title rowspan="6">C Stage</td>
 			<td>C1</td> <td task>The machine-level representation of a program</td> <td>4</td>
             <td _><a href="2607/c/1.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/09.html#/" target="_blank">📰Pt.1</a>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/09.html#/" target="_blank">📰Pt.1</a><br>
                   <a href="https://ysyx.oscc.cc/slides/2306/10.html#/" target="_blank">📰Pt.2</a></td>
-            <td _><a href="https://www.bilibili.com/video/BV1ow411275B" target="_blank">🎬Pt.1</a>
+            <td _><a href="https://www.bilibili.com/video/BV1ow411275B" target="_blank">🎬Pt.1</a><br>
                   <a href="https://www.bilibili.com/video/BV19H4y1d7Yi" target="_blank">🎬Pt.2</a></td>
 			<td x></td> <td x></td> <td _></td> <td _></td>
 		</tr>
@@ -344,9 +344,9 @@ pageClass: "ysyx-index"
 		<tr class="Stage-C">
 			<td>C6</td> <td task>SoC Computer System</td> <td>30</td>
             <td _><a href="2607/c/6.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/19.html#/" target="_blank">📰Pt.1</a>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/19.html#/" target="_blank">📰Pt.1</a><br>
                   <a href="https://ysyx.oscc.cc/slides/2306/20.html#/" target="_blank">📰Pt.2</a></td>
-            <td _><a href="https://www.bilibili.com/video/BV1NC4y1u7K3" target="_blank">🎬Pt.1</a>
+            <td _><a href="https://www.bilibili.com/video/BV1NC4y1u7K3" target="_blank">🎬Pt.1</a><br>
                   <a href="https://www.bilibili.com/video/BV1FC4y1k7mP" target="_blank">🎬Pt.2</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
