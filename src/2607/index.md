@@ -6,7 +6,7 @@ pageClass: "ysyx-index"
 
 # “One Student One Chip” v26.07 Course Homepage
 
-* Time: Wait to be determined
+* Class Time: Wait to be determined
 * If you find errors in the lab handouts or materials, or have questions or suggestions about the experiments, please contact Yu Zihao via email (yuzihao#ict.ac.cn).
     * Given that an increasing number of students are submitting incorrect AI-generated answers as modification suggestions, if no email response is received within one week, the suggestion will be considered not adopted by default.
 
