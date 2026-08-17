@@ -358,7 +358,7 @@ pageClass: "ysyx-index"
 			<td _></td> <td _></td> <td x></td> <td x></td>
 		</tr>
 		<tr class="Achievement">
-			<td colspan="11"><a href="2306/basic/1.11.html" target="_blank"><i class="fa fa-flag"></i> B Stage Tapeout Preparation and Assessment 📚</a></td>
+			<td colspan="11"><a href="../2306/basic/1.11.html" target="_blank"><i class="fa fa-flag"></i> B Stage Tapeout Preparation and Assessment 📚</a></td>
 		</tr>
 		<tr class="Stage-A">
 			<td stage-title rowspan="7">A Stage</td>
