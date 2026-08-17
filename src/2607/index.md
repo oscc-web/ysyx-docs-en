@@ -116,7 +116,7 @@ pageClass: "ysyx-index"
 			<td stage-title rowspan="6">F stage</td>
 			<td>F1</td> <td task>How to Ask Smart Questions</td> <td>2</td>
             <td _><a href="2607/f/1.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/01.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/01.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1WvHazNEsk/" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
@@ -130,8 +130,8 @@ pageClass: "ysyx-index"
 		<tr class="Stage-F">
 			<td>F3</td> <td task>Fundamentals of Digital Logic Circuits</td> <td>20</td>
             <td _><a href="2607/f/3.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/02.html#/" target="_blank">📰Pt.1</a><br>
-                  <a href="https://ysyx.oscc.cc/slides/2607/03.html#/" target="_blank">📰Pt.2</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/02.html#/" target="_blank">📰Pt.1</a><br>
+                  <a href="https://ysyx.oscc.cc/slides/2407/03.html#/" target="_blank">📰Pt.2</a></td>
             <td _><a href="https://www.bilibili.com/video/BV19nWNz2EZC" target="_blank">🎬Pt.1</a><br>
                   <a href="https://www.bilibili.com/video/BV1xentzxED7" target="_blank">🎬Pt.2</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
@@ -139,14 +139,14 @@ pageClass: "ysyx-index"
 		<tr class="Stage-F">
 			<td>F4</td> <td task>State Machine Model of Computer Systems</td> <td>5</td>
             <td _><a href="2607/f/4.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/04.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/04.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV17Lx6zREH6" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-F">
 			<td>F5</td> <td task>Simple Processor Supporting Sequence Summation</td> <td>5</td>
             <td _><a href="2607/f/5.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/05.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/05.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1YgxCzdEvq" target="_blank">🎬</a></td>
 			<td _></td> <td x></td> <td x></td> <td _></td>
 		</tr>
@@ -178,7 +178,7 @@ pageClass: "ysyx-index"
 		<tr class="Stage-E">
 			<td>E3</td> <td task>Linux System Installation and Basic Usage</td> <td>10</td>
             <td _><a href="2607/e/3.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/06.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/06.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1wD4xzbEpU" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td _></td> <td x></td>
 		</tr>
