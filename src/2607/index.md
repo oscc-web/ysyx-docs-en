@@ -6,7 +6,7 @@ pageClass: "ysyx-index"
 
 # “One Student One Chip” v26.07 Course Homepage
 
-* Time: Wait to be determined
+* Class Time: Wait to be determined
 * If you find errors in the lab handouts or materials, or have questions or suggestions about the experiments, please contact Yu Zihao via email (yuzihao#ict.ac.cn).
     * Given that an increasing number of students are submitting incorrect AI-generated answers as modification suggestions, if no email response is received within one week, the suggestion will be considered not adopted by default.
 
@@ -116,7 +116,7 @@ pageClass: "ysyx-index"
 			<td stage-title rowspan="6">F stage</td>
 			<td>F1</td> <td task>How to Ask Smart Questions</td> <td>2</td>
             <td _><a href="2607/f/1.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/01.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/01.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1WvHazNEsk/" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td _></td> <td _></td>
 		</tr>
@@ -130,8 +130,8 @@ pageClass: "ysyx-index"
 		<tr class="Stage-F">
 			<td>F3</td> <td task>Fundamentals of Digital Logic Circuits</td> <td>20</td>
             <td _><a href="2607/f/3.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/02.html#/" target="_blank">📰Pt.1</a><br>
-                  <a href="https://ysyx.oscc.cc/slides/2607/03.html#/" target="_blank">📰Pt.2</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/02.html#/" target="_blank">📰Pt.1</a><br>
+                  <a href="https://ysyx.oscc.cc/slides/2407/03.html#/" target="_blank">📰Pt.2</a></td>
             <td _><a href="https://www.bilibili.com/video/BV19nWNz2EZC" target="_blank">🎬Pt.1</a><br>
                   <a href="https://www.bilibili.com/video/BV1xentzxED7" target="_blank">🎬Pt.2</a></td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
@@ -139,14 +139,14 @@ pageClass: "ysyx-index"
 		<tr class="Stage-F">
 			<td>F4</td> <td task>State Machine Model of Computer Systems</td> <td>5</td>
             <td _><a href="2607/f/4.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/04.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/04.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV17Lx6zREH6" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-F">
 			<td>F5</td> <td task>Simple Processor Supporting Sequence Summation</td> <td>5</td>
             <td _><a href="2607/f/5.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/05.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/05.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1YgxCzdEvq" target="_blank">🎬</a></td>
 			<td _></td> <td x></td> <td x></td> <td _></td>
 		</tr>
@@ -178,7 +178,7 @@ pageClass: "ysyx-index"
 		<tr class="Stage-E">
 			<td>E3</td> <td task>Linux System Installation and Basic Usage</td> <td>10</td>
             <td _><a href="2607/e/3.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2607/06.html#/" target="_blank">📰</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2407/06.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1wD4xzbEpU" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td _></td> <td x></td>
 		</tr>
@@ -221,7 +221,7 @@ pageClass: "ysyx-index"
 			<td colspan="11"><a href="2607/e/9.html" target="_blank"><i class="fa fa-flag"></i> Submission of pre-study defense application</a></td>
 		</tr>
 		<tr class="Stage-D">
-			<td stage-title rowspan="12">D Stage</td>
+			<td stage-title rowspan="13">D Stage</td>
 			<td rowspan="2">D1</td> <td task>From C to binary</td> <td rowspan="2">10</td>
             <td _ rowspan="2"><a href="2607/d/1.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/07.html#/" target="_blank">📰</a></td>
@@ -249,15 +249,24 @@ pageClass: "ysyx-index"
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td>D4</td> <td task>Abstract Machine Runtime Environment</td> <td>5</td>
+			<td>D4</td> <td task>The machine-level representation of a program</td> <td>4</td>
             <td _><a href="2607/d/4.html" target="_blank">📚</a></td>
+            <td _><a href="https://ysyx.oscc.cc/slides/2306/09.html#/" target="_blank">📰Pt.1</a><br>
+                  <a href="https://ysyx.oscc.cc/slides/2306/10.html#/" target="_blank">📰Pt.2</a></td>
+            <td _><a href="https://www.bilibili.com/video/BV1ow411275B" target="_blank">🎬Pt.1</a><br>
+                  <a href="https://www.bilibili.com/video/BV19H4y1d7Yi" target="_blank">🎬Pt.2</a></td>
+			<td x></td> <td x></td> <td _></td> <td _></td>
+		</tr>
+		<tr class="Stage-D">
+			<td>D5</td> <td task>Abstract Machine Runtime Environment</td> <td>5</td>
+            <td _><a href="2607/d/5.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/11.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1Vu4y1s73Y" target="_blank">🎬</a></td>
 			<td x></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td rowspan="5">D5</td> <td task>From RTL code to GDS</td> <td rowspan="5">20</td>
-            <td _ rowspan="5"><a href="2607/d/5.html" target="_blank">📚</a></td>
+			<td rowspan="5">D6</td> <td task>From RTL code to GDS</td> <td rowspan="5">20</td>
+            <td _ rowspan="5"><a href="2607/d/6.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2407/10.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1ho1ZBbETt" target="_blank">🎬</a></td>
 			<td x></td> <td _></td> <td x></td> <td _></td>
@@ -287,63 +296,54 @@ pageClass: "ysyx-index"
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-D">
-			<td>D6</td> <td task>Tools and Infrastructure</td> <td>5</td>
-            <td _><a href="2607/d/6.html" target="_blank">📚</a></td>
+			<td>D7</td> <td task>Tools and Infrastructure</td> <td>5</td>
+            <td _><a href="2607/d/7.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/12.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1RM411Q7Au" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td _></td> <td x></td>
 		</tr>
 		<tr class="Stage-D">
-			<td>D7</td> <td task>Make your NPC Support RV32E</td> <td>5</td>
-            <td _><a href="2607/d/7.html" target="_blank">📚</a></td>
+			<td>D8</td> <td task>Make your NPC Support RV32E</td> <td>5</td>
+            <td _><a href="2607/d/8.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/13.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1rc411f7mK" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td x></td> <td x></td>
 		</tr>
 		<tr class="Achievement">
-			<td colspan="11"><a href="2607/d/8.html" target="_blank"><i class="fa fa-flag"></i> D Stage Tapeout Preparation</a></td>
+			<td colspan="11"><a href="2607/d/9.html" target="_blank"><i class="fa fa-flag"></i> D Stage Tapeout Preparation</a></td>
 		</tr>
 		<tr class="Stage-C">
-			<td stage-title rowspan="6">C Stage</td>
-			<td>C1</td> <td task>The machine-level representation of a program</td> <td>4</td>
+			<td stage-title rowspan="5">C Stage</td>
+			<td>C1</td> <td task>ELF Files and Linking</td> <td>2</td>
             <td _><a href="2607/c/1.html" target="_blank">📚</a></td>
-            <td _><a href="https://ysyx.oscc.cc/slides/2306/09.html#/" target="_blank">📰Pt.1</a><br>
-                  <a href="https://ysyx.oscc.cc/slides/2306/10.html#/" target="_blank">📰Pt.2</a></td>
-            <td _><a href="https://www.bilibili.com/video/BV1ow411275B" target="_blank">🎬Pt.1</a><br>
-                  <a href="https://www.bilibili.com/video/BV19H4y1d7Yi" target="_blank">🎬Pt.2</a></td>
-			<td x></td> <td x></td> <td _></td> <td _></td>
-		</tr>
-		<tr class="Stage-C">
-			<td>C2</td> <td task>ELF Files and Linking</td> <td>2</td>
-            <td _><a href="2607/c/2.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/14.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1Ly4y1w7hn" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C3</td> <td task>Devices and I/O</td> <td>10</td>
-            <td _><a href="2607/c/3.html" target="_blank">📚</a></td>
+			<td>C2</td> <td task>Devices and I/O</td> <td>10</td>
+            <td _><a href="2607/c/2.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/15.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1sb4y1g7Xu" target="_blank">🎬</a></td>
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C4</td> <td task>Debugging Tips</td> <td>2</td>
-            <td _><a href="2607/c/4.html" target="_blank">📚</a></td>
+			<td>C3</td> <td task>Debugging Tips</td> <td>2</td>
+            <td _><a href="2607/c/3.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/16.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1Vz4y1A7Rt" target="_blank">🎬</a></td>
 			<td _></td> <td _></td> <td _></td> <td x></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C5</td> <td task>Bus</td> <td>10</td>
-            <td _><a href="2607/c/5.html" target="_blank">📚</a></td>
+			<td>C4</td> <td task>Bus</td> <td>10</td>
+            <td _><a href="2607/c/4.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/18.html#/" target="_blank">📰</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1gj411s7ah" target="_blank">🎬</a></td>
 			<td _></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-C">
-			<td>C6</td> <td task>SoC Computer System</td> <td>30</td>
-            <td _><a href="2607/c/6.html" target="_blank">📚</a></td>
+			<td>C5</td> <td task>SoC Computer System</td> <td>30</td>
+            <td _><a href="2607/c/5.html" target="_blank">📚</a></td>
             <td _><a href="https://ysyx.oscc.cc/slides/2306/19.html#/" target="_blank">📰Pt.1</a><br>
                   <a href="https://ysyx.oscc.cc/slides/2306/20.html#/" target="_blank">📰Pt.2</a></td>
             <td _><a href="https://www.bilibili.com/video/BV1NC4y1u7K3" target="_blank">🎬Pt.1</a><br>
@@ -351,7 +351,7 @@ pageClass: "ysyx-index"
 			<td x></td> <td x></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Achievement">
-			<td colspan="11"><a href="2607/c/7.html" target="_blank"><i class="fa fa-flag"></i> C Stage Tapeout Preparation</a></td>
+			<td colspan="11"><a href="2607/c/6.html" target="_blank"><i class="fa fa-flag"></i> C Stage Tapeout Preparation</a></td>
 		</tr>
 		<tr class="Stage-B">
 			<td stage-title rowspan="4">B Stage</td>

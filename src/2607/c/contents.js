@@ -1,1 +1,1 @@
-module.exports = [1, 2, 3, 4, 5, 6, 7].map(x => `${x}`)
+module.exports = [1, 2, 3, 4, 5, 6].map(x => `${x}`)
