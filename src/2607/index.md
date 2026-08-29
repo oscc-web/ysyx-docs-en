@@ -204,14 +204,14 @@ pageClass: "ysyx-index"
 			<td x></td> <td _></td> <td _></td> <td _></td>
 		</tr>
 		<tr class="Stage-E">
-			<td>E7</td> <td task>Simple Bus and SoC</td> <td>5</td>
+			<td>E7</td> <td task>Simple Bus and SoC</td> <td>10</td>
             <td _><a href="2607/e/7.html" target="_blank">📚</a></td>
             <td _> - </td>
             <td _> - </td>
 			<td _></td> <td _></td> <td x></td> <td _></td>
 		</tr>
 		<tr class="Stage-E">
-			<td>E8</td> <td task>Synthesis and Physical Design</td> <td>5</td>
+			<td>E8</td> <td task>Back-End Physical Design and Tapeout Preparation</td> <td>5</td>
             <td _><a href="2607/e/8.html" target="_blank">📚</a></td>
             <td _> - </td>
             <td _> - </td>
